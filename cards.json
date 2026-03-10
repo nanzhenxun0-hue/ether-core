@@ -1,0 +1,22 @@
+{
+ "cards":[
+  {
+   "id":1,
+   "name":"Fire Soldier",
+   "element":"Fire",
+   "cost":2,
+   "atk":3,
+   "hp":2,
+   "ability":"Deal 1 damage on summon"
+  },
+  {
+   "id":2,
+   "name":"Water Healer",
+   "element":"Water",
+   "cost":3,
+   "atk":1,
+   "hp":4,
+   "ability":"Heal 2 HP"
+  }
+ ]
+}
